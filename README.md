@@ -5,7 +5,7 @@ This project analyzes Nintendo Switch video game data and visualizes trends in r
 
 ## 📂 Project Structure
 
-’‘’
+```
 nintendo-switch-dashboard/
 │
 ├── data_cleaning.sql       # SQL script for cleaning raw data
@@ -14,7 +14,7 @@ nintendo-switch-dashboard/
 │   └── dashboard.twbx
 └── README.md               # Project documentation
 
-‘’‘
+```
 
 ## 🛠️ Workflow
 ### 1. Intro  
