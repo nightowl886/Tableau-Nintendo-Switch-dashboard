@@ -1,2 +1,2 @@
-# Tableau-Nintendo-Switch-dashboard-
+# Tableau Nintendo Switch dashboard 
 
