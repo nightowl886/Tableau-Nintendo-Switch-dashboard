@@ -8,8 +8,7 @@ This project analyzes Nintendo Switch video game data and visualizes trends in r
 ```
 nintendo-switch-dashboard/
 │
-├── data_cleaning.sql       # SQL script for cleaning raw data
-├── cleaned_data.csv        # Final dataset used in Tableau
+├── switch-games.xlsx        # Final dataset used in Tableau
 ├── tableau/                # Tableau workbook files
 │   └── dashboard.twbx
 └── README.md               # Project documentation
