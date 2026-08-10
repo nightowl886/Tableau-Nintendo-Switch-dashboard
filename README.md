@@ -27,7 +27,7 @@ nintendo-switch-dashboard/
 ### 2. Initial Visualization & Date Formatting in Tableau
 - During the initial visualization stage, Tableau’s default date parser could not interpret release dates containing ordinal suffixes (e.g., 1st, 2nd, 3rd, 4th). This caused errors in chronological sorting and prevented accurate quarterly analysis.
 
-- ✅ Solution
+- ✅ Solution: \
 I created a calculated field in Tableau that explicitly checks for each suffix (st, nd, rd, th) and parses the date accordingly. This ensured all release dates were converted into valid DATE values.
 
 Releases by Quarter  
