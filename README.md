@@ -17,16 +17,14 @@ nintendo-switch-dashboard/
 ```
 
 ## 🛠️ Workflow
-### 1. Intro  
-Project motivation and objectives.
 
-### 2. Data Cleaning
+### 1. Data Cleaning
 
 - Remove duplicates, handle missing values, and standardize formats.
 
 - Export cleaned dataset for Tableau.
 
-### 3. Initial Visualization & Date Formatting in Tableau
+### 2. Initial Visualization & Date Formatting in Tableau
 During the initial visualization stage, Tableau’s default date parser could not interpret release dates containing ordinal suffixes (e.g., 1st, 2nd, 3rd, 4th). This caused errors in chronological sorting and prevented accurate quarterly analysis.
 
 ✅ Solution
