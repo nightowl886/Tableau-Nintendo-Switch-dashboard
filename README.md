@@ -29,7 +29,7 @@ nintendo-switch-dashboard/
 - ✅ Solution: \
 I created a calculated field in Tableau that explicitly checks for each suffix (st, nd, rd, th) and parses the date accordingly. This ensured all release dates were converted into valid DATE values.
 
-### 3.Releases by Quarter  
+### 3. Releases by Quarter  
 - Timeline of game releases across quarters.
 
 ### 4. Strongest & Weakest Performers  
