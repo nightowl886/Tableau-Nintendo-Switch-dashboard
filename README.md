@@ -29,11 +29,14 @@ nintendo-switch-dashboard/
 - ✅ Solution: \
 I created a calculated field in Tableau that explicitly checks for each suffix (st, nd, rd, th) and parses the date accordingly. This ensured all release dates were converted into valid DATE values.
 
-Releases by Quarter  
-Timeline of game releases across quarters.
+### 3.Releases by Quarter  
+- Timeline of game releases across quarters.
 
-Strongest & Weakest Performers  
-Bar charts comparing top-rated and lowest-rated games.
+### 4. Strongest & Weakest Performers  
+- Bar charts comparing top-rated and lowest-rated games.
+- To ensure rankings are high-engagement and trustworthy, a filter was applied: only games with more than 200 votes (num_votes > 200) are eligible.
+- This prevents titles with inflated ratings but very few votes from appearing in the Top 10 lists.
+- Final charts highlight both the strongest performers (high rating + sufficient votes) and weakest performers (low rating, but also with enough votes to be credible and representative).
 
 Publisher Quality  
 Scatter plots showing average ratings vs. release volume.
