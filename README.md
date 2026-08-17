@@ -23,6 +23,8 @@ nintendo-switch-dashboard/
 ├── switch-games.xlsx        # Final dataset used in Tableau
 ├── tableau/                # Tableau workbook files
 │   └── Nintendo Switch.twb
+│   └── interactive Dashboard.mov
+│   └── Tableau Dashboard.png
 └── README.md               # Project documentation
 
 ```
