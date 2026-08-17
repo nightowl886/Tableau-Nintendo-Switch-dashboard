@@ -85,13 +85,13 @@ I created a calculated field in Tableau that explicitly checks for each suffix (
 - Clean, professional formatting with tooltips
 
 ## 📌 Deliverables
-- SQL scripts for data preparation
 
 - Clean dataset for reproducibility
 
 - Interactive Tableau dashboard with multiple visualizations
 
 - README documentation with workflow and screenshots
+  
 - Tableau Dashboard Visualization
   https://public.tableau.com/views/NitendoSwitch/Dashboard?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
