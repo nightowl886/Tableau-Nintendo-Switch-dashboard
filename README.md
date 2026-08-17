@@ -50,7 +50,7 @@ I created a calculated field in Tableau that explicitly checks for each suffix (
 
   - Rating score
 
-  - Short game description / summary
+  - Short game description/summary
 
 - This interaction allows users to explore individual titles without leaving the dashboard, creating a more immersive and informative experience.
 
@@ -78,5 +78,6 @@ I created a calculated field in Tableau that explicitly checks for each suffix (
 - Interactive Tableau dashboard with multiple visualizations
 
 - README documentation with workflow and screenshots
+- Tableau Dashboard Visualization
   https://public.tableau.com/views/NitendoSwitch/Dashboard?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
