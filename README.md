@@ -70,6 +70,10 @@ I created a calculated field in Tableau that explicitly checks for each suffix (
 
 - This interaction allows users to explore individual titles without leaving the dashboard, creating a more immersive and informative experience.
 
+### 6. Quality of Frequent Publishers  
+- A bubble chart comparing publishers by both release volume and average rating.
+- This highlights which publishers consistently deliver high‑quality titles and which ones release many lower‑rated games.
+
 ---
 ## 📊 Dashboard Highlights
 
