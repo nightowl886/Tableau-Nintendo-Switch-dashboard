@@ -1,7 +1,7 @@
 # Tableau Nintendo Switch Dashboard 
 🎮 Nintendo Switch Tableau Dashboard
 ## 📖 Overview
-This project analyzes Nintendo Switch game data and visualizes key trends in releases, ratings, and player engagement using Tableau. The dashboard highlights **how many games Nintendo releases each quarter**, identifies the **Top 10 strongest and weakest performers**, and includes an **interactive game detail panel** that displays dynamic information when a user selects a specific title.
+This project analyzes Nintendo Switch game data and visualizes key trends in releases, ratings, publisher behavior, and player engagement using Tableau. The dashboard highlights **how many games Nintendo releases each quarter**, identifies the **Top 10 strongest and weakest performers**, evaluates the **quality of frequent publishers**, and includes an **interactive game detail panel** that displays dynamic information when a user selects a specific title.
 
 The interactive dashboard allows users to explore:
 
