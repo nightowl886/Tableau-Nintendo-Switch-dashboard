@@ -1,7 +1,19 @@
 # Tableau Nintendo Switch Dashboard 
 🎮 Nintendo Switch Tableau Dashboard
 ## 📖 Overview
-This project analyzes Nintendo Switch video game data and visualizes trends in releases, ratings, reviews, and publisher performance using Tableau. The goal is to demonstrate skills in data cleaning, SQL preparation, and interactive dashboard design.
+This project analyzes Nintendo Switch game data and visualizes key trends in releases, ratings, and player engagement using Tableau. The dashboard highlights how many games Nintendo releases each quarter, identifies the Top 10 strongest and weakest performers, and includes an interactive game detail panel that displays dynamic information when a user selects a specific title.
+
+The interactive dashboard allows users to explore:
+
+- Quarterly release patterns across the Nintendo Switch catalog
+
+- Top 10 highest‑rated and lowest‑rated games, filtered to ensure reliability (only titles with more than 200 reviews are included)
+
+- Detailed game information on click, including cover image, number of reviews, rating score, and a short description
+
+This project demonstrates skills in data cleaning, visualization design, and building interactive Tableau experiences that combine statistical rigor with user‑friendly exploration.
+
+
 
 ## 📂 Project Structure
 
@@ -54,8 +66,10 @@ I created a calculated field in Tableau that explicitly checks for each suffix (
 
 - This interaction allows users to explore individual titles without leaving the dashboard, creating a more immersive and informative experience.
 
-
+---
 ## 📊 Dashboard Highlights
+
+
 - Quarterly release trends
 
 - Top & bottom performers
@@ -67,8 +81,6 @@ I created a calculated field in Tableau that explicitly checks for each suffix (
 - URL actions for external references
 
 - Clean, professional formatting with tooltips
-
-
 
 ## 📌 Deliverables
 - SQL scripts for data preparation
