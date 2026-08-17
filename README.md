@@ -47,7 +47,7 @@ I created a calculated field in Tableau that explicitly checks for each suffix (
 
 ### 3. Quarterly Release Trends  
 - A time‑series visualization showing how many Nintendo Switch games were released each quarter.
-- Helps identify release spikes, seasonal patterns, and long‑term publishing trends.
+- Helps identify publishing cycles, seasonal spikes, and long‑term trends.
 
 ### 4. Strongest & Weakest Performers  
 - Bar charts comparing the **Top 10 strongest performers** and **Top 10 weakest performers** across all Nintendo Switch games.
