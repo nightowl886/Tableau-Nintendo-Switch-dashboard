@@ -68,7 +68,7 @@ I created a calculated field in Tableau that explicitly checks for each suffix (
 
   - Short game description/summary
 
-- This interaction allows users to explore individual titles without leaving the dashboard, creating a more immersive and informative experience.
+- This interaction allows users to explore individual titles without leaving the dashboard, creating a more immersive and user‑friendly exploration experience.
 
 ### 6. Quality of Frequent Publishers  
 - A bubble chart comparing publishers by both release volume and average rating.
