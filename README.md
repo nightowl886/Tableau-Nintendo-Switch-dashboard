@@ -75,6 +75,8 @@ URL actions for external references
 
 Clean, professional formatting with tooltips
 
+https://public.tableau.com/views/NitendoSwitch/Dashboard?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 🚀 How to Use
 Run data_cleaning.sql to prepare the dataset.
 
