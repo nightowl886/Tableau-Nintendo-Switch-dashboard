@@ -1,4 +1,4 @@
-# Tableau Nintendo Switch dashboard 
+# Tableau Nintendo Switch Dashboard 
 🎮 Nintendo Switch Tableau Dashboard
 ## 📖 Overview
 This project analyzes Nintendo Switch video game data and visualizes trends in releases, ratings, reviews, and publisher performance using Tableau. The goal is to demonstrate skills in data cleaning, SQL preparation, and interactive dashboard design.
@@ -10,7 +10,7 @@ nintendo-switch-dashboard/
 │
 ├── switch-games.xlsx        # Final dataset used in Tableau
 ├── tableau/                # Tableau workbook files
-│   └── dashboard.twbx
+│   └── Nintendo Switch.twbx
 └── README.md               # Project documentation
 
 ```
