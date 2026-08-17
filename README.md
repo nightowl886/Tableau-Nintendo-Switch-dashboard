@@ -10,6 +10,8 @@ The interactive dashboard allows users to explore:
 - Top 10 highest‑rated and lowest‑rated games, filtered to ensure reliability (only titles with more than 200 reviews are included)
 
 - Detailed game information on click, including cover image, number of reviews, rating score, and a short description
+  
+- Quality of Frequent Publishers
 
 This project demonstrates skills in data cleaning, visualization design, and building interactive Tableau experiences that combine statistical rigor with user‑friendly exploration.
 
