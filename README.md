@@ -29,14 +29,30 @@ nintendo-switch-dashboard/
 - ✅ Solution: \
 I created a calculated field in Tableau that explicitly checks for each suffix (st, nd, rd, th) and parses the date accordingly. This ensured all release dates were converted into valid DATE values.
 
-### 3. Releases by Quarter  
-- Timeline of game releases across quarters.
+### 3. Quarterly Release Trends  
+- A time‑series visualization showing how many Nintendo Switch games were released each quarter.
+- Helps identify release spikes, seasonal patterns, and long‑term publishing trends.
 
 ### 4. Strongest & Weakest Performers  
-- Bar charts comparing top-rated and lowest-rated games.
+- Bar charts comparing the **Top 10 strongest performers** and **Top 10 weakest performers** across all Nintendo Switch games.
 - To ensure rankings are high-engagement and trustworthy, a filter was applied: only games with more than 200 votes (num_votes > 200) are eligible.
 - This prevents titles with inflated ratings but very few votes from appearing in the Top 10 lists.
-- Final charts highlight both the strongest performers (high rating + sufficient votes) and weakest performers (low rating, but also with enough votes to be credible and representative).
+- The final charts highlight both consistently high‑rated titles and reliably low‑rated titles based on sufficient community engagement.
+
+### 5. Interactive Game Details
+- The dashboard includes an interactive panel that displays detailed information when a user clicks on any game.
+
+- The dynamic display shows:
+
+  - Game cover image
+
+  - Number of reviews
+
+  - Rating score
+
+  - Short game description / summary
+
+- This interaction allows users to explore individual titles without leaving the dashboard, creating a more immersive and informative experience.
 
 Publisher Quality  
 Scatter plots showing average ratings vs. release volume.
