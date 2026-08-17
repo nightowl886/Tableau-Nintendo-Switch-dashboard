@@ -15,8 +15,6 @@ The interactive dashboard allows users to explore:
 
 This project demonstrates skills in data cleaning, visualization design, and building interactive Tableau experiences that combine statistical rigor with user‑friendly exploration.
 
-Together, these visualizations provide a comprehensive, interactive view of the Nintendo Switch game ecosystem, combining release trends, performance rankings, publisher quality, and detailed game‑level insights.
-
 
 
 ## 📂 Project Structure
