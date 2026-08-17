@@ -10,7 +10,7 @@ nintendo-switch-dashboard/
 │
 ├── switch-games.xlsx        # Final dataset used in Tableau
 ├── tableau/                # Tableau workbook files
-│   └── Nintendo Switch.twbx
+│   └── Nintendo Switch.twb
 └── README.md               # Project documentation
 
 ```
