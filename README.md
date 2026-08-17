@@ -54,57 +54,29 @@ I created a calculated field in Tableau that explicitly checks for each suffix (
 
 - This interaction allows users to explore individual titles without leaving the dashboard, creating a more immersive and informative experience.
 
-Publisher Quality  
-Scatter plots showing average ratings vs. release volume.
 
-Doughnut Chart  
-Genre distribution or publisher market share.
+## 📊 Dashboard Highlights
+- Quarterly release trends
 
-Image URL Placement  
-Display game cover images dynamically.
+- Top & bottom performers
 
-Dynamic Game Info  
-Interactive display of ratings, reviews, and release details.
+- Publisher quality analysis
 
-Votes & Reviews  
-Visualize relationship between number of reviews and ratings.
+- Interactive cover images and dynamic info display
 
-URL Actions  
-Click-through links to external sources (e.g., Metacritic).
+- URL actions for external references
 
-Tooltips & Formatting  
-Final polish: tooltips, layout, and design consistency.
+- Clean, professional formatting with tooltips
 
-Conclusion  
-Wrap-up and key insights.
 
-📊 Dashboard Highlights
-Quarterly release trends
 
-Top & bottom performers
+## 📌 Deliverables
+- SQL scripts for data preparation
 
-Publisher quality analysis
+- Clean dataset for reproducibility
 
-Interactive cover images and dynamic info display
+- Interactive Tableau dashboard with multiple visualizations
 
-URL actions for external references
+- README documentation with workflow and screenshots
+  https://public.tableau.com/views/NitendoSwitch/Dashboard?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-Clean, professional formatting with tooltips
-
-https://public.tableau.com/views/NitendoSwitch/Dashboard?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
-🚀 How to Use
-Run data_cleaning.sql to prepare the dataset.
-
-Load cleaned_data.csv into Tableau.
-
-Open dashboard.twbx to explore the interactive dashboard.
-
-📌 Deliverables
-SQL scripts for data preparation
-
-Clean dataset for reproducibility
-
-Interactive Tableau dashboard with multiple visualizations
-
-README documentation with workflow and screenshots
